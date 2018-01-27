@@ -1,7 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
 }
-h6,h3,h4,p{
+h6,h3,h4,p,h2{
 	color:#5d0005;
 }
 .row h6,.container h4 {
